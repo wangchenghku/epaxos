@@ -9,7 +9,7 @@ bash < <(curl -s -S -L https://raw.githubusercontent.com/moovweb/gvm/master/bins
 To list all Go versions available for download:
 
 <code>
-gvm install
+gvm listall
 </code>
 
 Install Go:
